@@ -43,7 +43,7 @@ Scan 4 screenshot:  <br/>
 <img src="" height="80%" width="80%" alt="Nessus Lab Steps"/>
 <br />
 Scan 4 remediation: <br/>
-<img src="" height="80%" width="80%" alt="Nessus Lab Steps"/>
+<img src="https://i.imgur.com/EJTgL7F.png" height="80%" width="80%" alt="Nessus Lab Steps"/>
 </p>
 
 <!--
