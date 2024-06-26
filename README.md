@@ -20,39 +20,32 @@ This lab goes through the process of creating a Windows 10 host virtual machine 
 
 <p align="center">
 Setting up Nessus scan: <br/>
-<img src="https://i.imgur.com/" height="80%" width="80%" alt="Nessus Lab Steps"/>
-<br />
-<br />
-Configure Nessus scan:  <br/>
-<img src="https://i.imgur.com/" height="80%" width="80%" alt="Nessus Lab Steps"/>
+<img src="https://i.imgur.com/INGcdrN.png" height="50%" width="50%" alt="Nessus Lab Steps"/>
 <br />
 <br />
 Scan 1 screenshots:  <br/>
-<img src="https://i.imgur.com/" height="80%" width="80%" alt="Nessus Lab Steps"/>
+<img src="https://i.imgur.com/pLOo81z.png" height="80%" width="80%" alt="Nessus Lab Steps"/>
 <br />
 <br />
 Scan 2 screenshots:  <br/>
-<img src="https://i.imgur.com/" height="80%" width="80%" alt="Nessus Lab Steps"/>
-<br />
+<img src="https://i.imgur.com/NnaQR1o.png" height="80%" width="80%" alt="Nessus Lab Steps"/>
 <br />
 Scan 2 remediation screenshot:  <br/>
-<img src="https://i.imgur.com/" height="80%" width="80%" alt="Nessus Lab Steps"/>
+<img src="https://i.imgur.com/XcY9iLP.png" height="80%" width="80%" alt="Nessus Lab Steps"/>
 <br />
 <br />
 Scan 3 screenshot:  <br/>
-<img src="https://i.imgur.com/" height="80%" width="80%" alt="Nessus Lab Steps"/>
-<br />
+<img src="https://i.imgur.com/2oyXtxX.png" height="80%" width="80%" alt="Nessus Lab Steps"/>
 <br />
 Scan 3 remediation: <br/>
-<img src="https://i.imgur.com/" height="80%" width="80%" alt="Nessus Lab Steps"/>
+<img src="https://i.imgur.com/5l3fqGz.png" height="80%" width="80%" alt="Nessus Lab Steps"/>
 <br />
 <br />
 Scan 4 screenshot:  <br/>
-<img src="https://i.imgur.com/" height="80%" width="80%" alt="Nessus Lab Steps"/>
-<br />
+<img src="" height="80%" width="80%" alt="Nessus Lab Steps"/>
 <br />
 Scan 4 remediation: <br/>
-<img src="https://i.imgur.com/" height="80%" width="80%" alt="Nessus Lab Steps"/>
+<img src="" height="80%" width="80%" alt="Nessus Lab Steps"/>
 </p>
 
 <!--
