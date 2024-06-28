@@ -1,7 +1,7 @@
 # Nessus Vulnerability Management Lab
 
 <h2>Description</h2>
-This lab goes through the process of creating a Windows 10 host virtual machine on VMWare Workstation 17 to scan for vulnerabilities using the Tenable Nessus Essentials scanner. We first perform a scan without using credentials, and the second scan is a credentialed scan. This is to see how many more vulnerabilities show up after a credentialed scan. The third scan is performed after installing an old deprecated version of Firefox, and the fourth scan is performed after deleting Firefox and updating the OS.
+This lab goes through the process of creating a Windows 10 host virtual machine on VMWare Workstation 17 Player to scan for vulnerabilities using the Tenable Nessus Essentials scanner. We first perform a scan without using credentials, and the second scan is a credentialed scan. This is to see how many more vulnerabilities show up after a credentialed scan. The third scan is performed after installing an old deprecated version of Firefox, and the fourth scan is performed after deleting Firefox and updating the OS.
 <br />
 
 
@@ -11,7 +11,7 @@ This lab goes through the process of creating a Windows 10 host virtual machine 
 
 <h2>Environments</h2>
 
-- <b>VMWare Workstation 17</b>
+- <b>VMWare Workstation 17 Player</b>
 - <b>Windows 10</b> (21H2, 22H2)
 
 <h2>Lab walk-through:</h2>
