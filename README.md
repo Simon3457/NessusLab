@@ -17,19 +17,19 @@ This lab goes through the process of creating a Windows 10 host virtual machine 
 <h2>Lab walk-through:</h2>
 <ol>
  <h3><b>PART 1 - SET UP NESSUS & VM ENVIRONMENTS</b></h3><br/>
- <li>Install VMWare Workstation Player
+ <li><b>Install VMWare Workstation Player</b>
   <ul><li>From link https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-player/workstation-player-evaluation.html.html.html.html</li></ul>
  </li>
  <br />
  <br />
 
- <li>Create installation media for Windows 10 iso file
+ <li><b>Create installation media for Windows 10 iso file</b>
   <ul><li>From link https://www.microsoft.com/en-us/software-download/windows10</li></ul>
  </li>
  <br />
  <br />
  
- <li>Create account & install Nessus Essentials
+ <li><b>Create account & install Nessus Essentials</b>
   <ol>
    <li>From link https://www.tenable.com/products/nessus/nessus-essentials</li>
    <li>Register for an activation code & check for an email by Tenable</li>
@@ -45,7 +45,7 @@ This lab goes through the process of creating a Windows 10 host virtual machine 
  <br />
  <br />
 
- <li>Setup Windows 10 Virtual Machine on VMWare
+ <li><b>Setup Windows 10 Virtual Machine on VMWare</b>
   <ol>
    <li>Open the VMWare Workstation Player application</li>
    <li>Click on the “Player” top left tab, go to the “file” row & click “New Virtual Machine…” (CTRL+N)</li>
@@ -67,7 +67,7 @@ This lab goes through the process of creating a Windows 10 host virtual machine 
  <br />
  <br />
 
- <li>Setup Nessus Essentials
+ <li><b>Setup Nessus Essentials</b>
   <ol>
    <li>In “My Scans”, click the link “Create a new scan” & select “Basic Network Scan”</li>
    <li>Set up the Network Scan (input IP address from Windows 10 VM), click save</li>
@@ -83,7 +83,7 @@ This lab goes through the process of creating a Windows 10 host virtual machine 
  <br />
  <br />
 
- <li>Setup Virtual Machine Network Access
+ <li><b>Setup Virtual Machine Network Access</b>
   <ol>
    <li>Go to the start menu of the VM, type “services.msc” & click on the application</li>
    <li>Go down to “Remote Registry” and double click on it</li>
@@ -107,7 +107,7 @@ This lab goes through the process of creating a Windows 10 host virtual machine 
  <br />
  <br />
 
- <li>Configure Nessus Credentialed Scan
+ <li><b>Configure Nessus Credentialed Scan</b>
   <ol>
    <li>Go to the Nessus Scans section, click the checkbox for the scan</li>
    <li>Click on “More” dropdown & click “Configure”</li>
@@ -123,7 +123,7 @@ This lab goes through the process of creating a Windows 10 host virtual machine 
  
  <h3><b>PART 2 - LAB EXERCISE (REMEDIATE VULNERABILITIES)</b></h3>
 
- <li>Install Deprecated Software on VM
+ <li><b>Install Deprecated Software on VM</b>
   <ol>
    <li>You can install any deprecated software, but for this example we went with an old version of Firefox: https://ftp.mozilla.org/pub/firefox/releases/3.6.12/win32/en-US/</li>
   </ol>
@@ -131,7 +131,7 @@ This lab goes through the process of creating a Windows 10 host virtual machine 
  <br />
  <br />
 
- <li>Scan VM again
+ <li><b>Scan VM again</b>
   <ol>
    <li>Go to http://localhost:8834/WelcomeToNessus-Install/welcome</li>
    <li>Go to the scans section & launch the scan we created earlier</li>
@@ -141,7 +141,7 @@ This lab goes through the process of creating a Windows 10 host virtual machine 
  <br />
  <br />
 
- <li>Remediate Vulnerabilities
+ <li><b>Remediate Vulnerabilities</b>
   <ol>
    <li>Go to the “Remediations” tab & analyze the suggestions</li>
    <li>Remove deprecated software
@@ -162,7 +162,7 @@ This lab goes through the process of creating a Windows 10 host virtual machine 
  <br />
  <br />
 
- <li>Scan again
+ <li><b>Scan again</b>
   <ol>
    <li>Go to http://localhost:8834/WelcomeToNessus-Install/welcome</li>
    <li>Go to the scans section & launch the scan we created earlier</li>
@@ -171,7 +171,7 @@ This lab goes through the process of creating a Windows 10 host virtual machine 
  </li>
 </ol>
 
-<h2>Lab results:</h2>
+<h2><b>Lab results:</b></h2>
 <p align="center">
 Scan 1 screenshots:  <br/>
 <img src="https://i.imgur.com/pLOo81z.png" height="80%" width="80%" alt="Nessus Lab Steps"/>
